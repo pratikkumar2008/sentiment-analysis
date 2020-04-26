@@ -1,1 +1,1 @@
-# sentiment-analysis
+Sentiment analysis on IMDB using 2 methods- Tradional & RNN
